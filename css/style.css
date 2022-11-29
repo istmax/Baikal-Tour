@@ -681,6 +681,29 @@ a {
 	color: #1B7ED9;
 }
 
+.author-link {
+	position: absolute;
+	top: 12px;
+	left: 5px;
+	font-size: 20px;
+}
+
+.author-link:hover {
+	color: #1B7ED9;
+	font-size: 20px;
+	fill: #1B7ED9;
+}
+
+.author-svg {
+	position: absolute;
+	top: 2px;
+	left: 270px;
+}
+
+.author-svg:hover {
+	fill: #1B7ED9;
+}
+
 .footer {
 	padding-top: 20px;
 	display: flex;
